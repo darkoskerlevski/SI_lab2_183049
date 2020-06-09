@@ -5,3 +5,7 @@
 ### Група на код: 
 
 Ја добив групата на код 3
+
+### Control Flow Graph
+
+![control flow graph](controlflowgraph.png)
